@@ -565,6 +565,7 @@ template {
   }
 }
 
+
 /* header and body style */
 .container-content {
   line-height: 26px;
@@ -586,4 +587,17 @@ template {
 
 .container-content h2 {
   font-size: 40px;
+}
+/* What we do ... section icons */
+.icon-holberton_school-icon-ic_sound:before {
+  content: "\e909";
+}
+.holberton_school-icon-ic_sound:before {
+  content: "\e90e";
+}
+.holberton_school-icon-ic_music:before {
+  content: "\e90d";
+}
+.holberton_school-icon-ic_hearing:before {
+  content: "\e909";
 }
