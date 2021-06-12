@@ -12,7 +12,7 @@
 ##
 | ______________________________________________Final project responsive design____________      _________________________________  |
 | ------ |
-| ![alt text](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210612T184636Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=14d3a453a1787946ef7815857b4d8aeee0df8cb6b558bc56ad1da7700c9c9e2b) |
+| ![alt text](https://ibb.co/sR1Lxw6) |
 
 
 ## Tech
