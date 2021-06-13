@@ -761,42 +761,6 @@ a:hover, a:active {
   }
 }
 
-/* free styling -decoration webkit */
-[type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner, button::-moz-focus-inner {
-  border-style: none;
-  padding: 0;
-}
-
-[type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring, button:-moz-focusring {
-  outline: 1.5px dotted ButtonText;
-}
-
-[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button {
-  height: auto;
-}
-
-[type="reset"], [type="button"], [type="submit"], button {
-  -webkit-appearance: button;
-}
-
-[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
-
-[type="checkbox"], [type="radio"] {
-  box-sizing: border-box;
-  padding: 0;
-}
-
-[type="search"] {
-  -webkit-appearance: textfield;
-  outline-offset: -2px;
-}
-
-::-webkit-file-upload-button {
-  -webkit-appearance: button;
-  font: inherit;
-}
 
 [hidden] {
   display: none;
@@ -804,10 +768,6 @@ a:hover, a:active {
 
 
 /* contact */
-
-
-/* SECTION Contact us
-    ============================== */
 :root {
   --form-separation: calc(45px / 2);
 }
@@ -870,4 +830,41 @@ a:hover, a:active {
 
 .contact .form-submit {
   margin-top: calc(56px - var(--form-separation));
+}
+
+/* free styling -decoration webkit */
+[type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner, button::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+[type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring, button:-moz-focusring {
+  outline: 1.5px dotted ButtonText;
+}
+
+[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+[type="reset"], [type="button"], [type="submit"], button {
+  -webkit-appearance: button;
+}
+
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+[type="checkbox"], [type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+[type="search"] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px;
+}
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
 }
