@@ -12,7 +12,7 @@
 ##
 | ______________________________________________Final project responsive design____________      _________________________________  |
 | ------ |
-| ![alt text](https://ibb.co/sR1Lxw6) |
+| <img src="https://ibb.co/sR1Lxw6" width="250"> | 
 
 
 ## Tech
