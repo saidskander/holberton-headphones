@@ -12,7 +12,7 @@
 ##
 | ______________________________________________Final project responsive design____________      _________________________________  |
 | ------ |
-| <img src="https://github.com/saidskander/holberton-headphones/blob/master/images/final.jpg" width="250"> | 
+| <img src="https://github.com/saidskander/holberton-headphones/blob/master/images/final.jpg" width=""> | 
 
 
 ## Tech
