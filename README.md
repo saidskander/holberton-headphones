@@ -1,6 +1,6 @@
 # Implement a design from scratch
 
-### this project is a web page.with all HTML/CSS/Accessibility/Responsive design knowledges.
+#### this project is a web page.with all HTML/CSS/Accessibility/Responsive design knowledges.
 
 
 ## Project concept:
